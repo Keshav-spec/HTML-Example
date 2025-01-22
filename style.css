@@ -1,0 +1,22 @@
+/* "lab6css.css" */
+h2{
+color: maroon;
+margin-left:20px;
+}
+#para{
+	color: navy;
+	font-family: italic;
+	margin-left:40px;
+	font-size:20px
+}
+.edit-text{
+	color:white;
+	background-color:sienna;
+}
+
+.square{
+	background-color:green;
+	width:200px;
+	height:200px;
+}
+
